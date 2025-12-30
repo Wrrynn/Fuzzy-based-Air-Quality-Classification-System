@@ -104,8 +104,9 @@ pip install pandas numpy matplotlib scikit-learn
 jupyter notebook
 ```
 
-```markdown
+
 ### Authors
+```markdown
 - M Reyenno R.S.
 - I Made Dwi Wiryawan R.
 - Muhammad Andhika M.
