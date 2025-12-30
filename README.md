@@ -98,6 +98,15 @@ sample_data = fuzzy_df.sample(n=100, random_state=42)
 
 ### How to Run
 ```python
+git clone https://github.com/Wrrynn/Fuzzy-based-Air-Quality-Classification-System.git
+cd Fuzzy-based-Air-Quality-Classification-System
 pip install pandas numpy matplotlib scikit-learn
 jupyter notebook
+```
+
+```markdown
+### Authors
+- M Reyenno R.S.
+- I Made Dwi Wiryawan R.
+- Muhammad Andhika M.
 ```
